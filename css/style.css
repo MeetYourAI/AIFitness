@@ -1340,7 +1340,7 @@ Testimonial Part CSS End
 /*==============Breadcramb Part CSS Start==============*/
 
 .breadcrun-banner {
-    background: url(../images/breadcrumb.png) no-repeat;
+    /* background: url(../images/breadcrumb.png) no-repeat; */
     background-size: cover;
     background-position: center;
     position: relative;
