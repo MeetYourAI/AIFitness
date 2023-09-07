@@ -2,7 +2,7 @@
 Static website for AI Fitness prototype
 
 
-Team: Anaïs Gilbert and Hassan Ahmed
+Team: Anaïs Gilbert and Hasan Ahmed
 
 -------
 
