@@ -1,8 +1,7 @@
-# AIFitness
+# AI Fitness | Smart Workouts, Nutrition & Virtual Coaching
 Static website for AI Fitness prototype
 Team: Anaïs Gilbert and Hasan Ahmed
 
-# AI-Powered Fitness Platform | Smart Workouts, Nutrition & Virtual Coaching
 
 ## Table Of Contents
 
